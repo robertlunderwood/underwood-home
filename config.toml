@@ -1,0 +1,69 @@
+## Basic Configuration
+
+baseurl = "http://www.robertlunderwood.com" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Robert Underwood"
+title = "The Home of Robert L. Underwood"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "UA-71560609-1"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Robert L. Underwood"
+intro = "M.S. in Analytics, Future Data Analyst"
+description = "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you."
+authorimage = "img_0010.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+#github = "<username>"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "robertlunderwood"
+twitter = "robunderwood"
+facebook = "robertlunderwood"
+google = "+robertunderwood"
+#stackoverflow = "<username>"
+email = "rlu@robertlunderwood.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Robert Underwood" 
+poweredby = true
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "Resume"
+    weight = 200
+    identifier = "Resume"
+    url = "/resume/"
+[[menu.main]]
+    name = "About"
+    identifier = "About"
+    weight = 100
+    url = "/about/"
+    
+[[menu.main]]
+    name = "Ranting Robert"
+    identifier = "Ranting Robert"
+    weight = 300
+    url = "http://rantingrobert.com"
