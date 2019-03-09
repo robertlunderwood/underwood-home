@@ -32,64 +32,68 @@ Bachelor of Science in Mathematical Sciences, May 2009
 
 **Analytics:** Data Analysis, Data Minding, Data Modeling, Business Intelligence, Database Design 
 
-**Software:**  R Programming Language, SAS, Tableau, SQL, Access, Microsoft Office, Excel
+**Software:**  R Programming Language, Python, Tableau, Oracle SQL, Microsoft SQL Server, Microsoft Access, Excel, Power BI
 
 ## ACADEMIC PROJECTS
 
 **Email Marketing Data Group Project,**  Spring 2017
 
-* Analyzed email marketing data – both company and third-party data – to build a model that could predict email responses while reducing the total emails sent by over 50% and presented to company representatives.
-* Identified 15 variables out of 300 in the third-party dataset that resulted in a response rate outside of the average response rate and cleaned the data to create a new dataset for modeling.
-* Built, trained, and compared various models which were used to identify how many emails would need to be sent to retain 80% of responses.
+* Analyzed email marketing data – both company and third-party data – to build a model that could predict email responses while reducing the total emails sent by over 50% and presented to company representatives
+* Identified 15 variables out of 300 in the third-party dataset that resulted in a response rate outside of the average response rate and cleaned the data to create a new dataset for modeling
+* Built, trained, and compared various models which were used to identify how many emails would need to be sent to retain 80% of responses
 
 **Predictive Analytics Term Project,**  Spring 2017
 
 *  Identified and transformed variables in birth 
-weight dataset in R to build models that could predict infant birth weight and provided suggestions.
+weight dataset in R to build models that could predict infant birth weight and provided suggestions
 
 **AU Personal Care Group Project,**  Fall 2016
 
-*  Created a visual analytics tool in Tableau to identify key salespersons, customers, and products that were useful maximizing revenue and recommended the discontinuation of low-performing products.
-* Summarized sales patterns and reported outlying high-performance month.
+*  Created a visual analytics tool in Tableau to identify key salespersons, customers, and products that were useful maximizing revenue and recommended the discontinuation of low-performing products
+* Summarized sales patterns and reported outlying high-performance month
 
 **Advanced Data Analysis Project,**  Spring 2009
 
-*  Analyzed 50 variables for 200 beers and created a model to predict taste-testing ratings.
-*  Leveraged model to predict ratings for 100 different beers.
+*  Analyzed 50 variables for 200 beers and created a model to predict taste-testing ratings
+*  Leveraged model to predict ratings for 100 different beers
 
 
 
 ## WORK EXPERIENCE
 **FANNIE MAE,** Herndon, VA	
 
-*Junior Software Developer,* Jun 2018 - Present
+*Junior Software Developer,* Jun 2018 – February 2019
 
-* Updated test scripts using Peoplesoft Test Framework.
+* Updated over 700 test scripts using Peoplesoft Test Framework
+* Reviewed team interfaces and updated internal database with new interface control documents
 
 **FDM GROUP,** New York City, NY	
 
-*Data Analyst Trainee,* Mar 2018 - May 2018
+*Data Analyst Trainee,* Mar 2018 – May 2018
 
-* Excelled while being trained in SQL, Excel VBA, business analysis, and data analysis.
+* Received additional training in SQL including Oracle SQL and Microsoft SQL Server
+* Trained and completed projects using SSIS and SSAS
+* Completed a data visualization project using Power BI to create a sales dashboard
+
 
 **DOLLAR BANK,** Pittsburgh, PA	
 
-*Video Banking Teller,* Sep 2015 - Mar 2018
+*Video Banking Teller,* Sep 2015 – Mar 2018
 
-* Consistently and accurately services banking needs remotely.
-* Promotes machine functions via branch visits, leading to a 75% increase in customer usage.
-* Built and maintains a new schedule template which reduces time spent completing schedules by 50%. 
+* Consistently and accurately services banking needs remotely
+* Promotes machine functions via branch visits, leading to a 75% increase in customer usage
+* Built and maintains a new schedule template which reduces time spent completing schedules by 50% 
 
 **ALLEGHENY VALLEY BANK,** Pittsburgh, PA	
 
 *Bank Teller,* Oct 2014 – Aug 2015
 
-* Addressed customer needs by performing transactions and making referrals.
+* Serviced various financial concerns from customers and performed transactions as needed
 
 **SERVICELINK,** Pittsburgh, PA
 
 *Quality Control Analyst,* Apr 2011 – Aug 2013
 
-* Reviewed broker price opinions and desktop housing appraisals.
-* Exceeded review goals consistently by 50% while maintaining a 97% accuracy rate, resulting in progressive responsibility to review reports from three different clients.
-* Reviewed test reports from a potential client, resulting in the acquisition of the client and a 25% increase in volume.
+* Reviewed broker price opinions and desktop housing appraisals
+* Exceeded review goals consistently by 50% while maintaining a 97% accuracy rate, resulting in progressive responsibility to review reports from three different clients
+* Reviewed test reports from a potential client, resulting in the acquisition of the client and a 25% increase in volume

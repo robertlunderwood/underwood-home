@@ -40,7 +40,7 @@ keywords = "minimalist,blog,goa,hugo,developer"
 linkedin = "robertlunderwood"
 twitter = "robunderwood"
 facebook = "robertlunderwood"
-google = "+robertunderwood"
+#google = "+robertunderwood"
 #stackoverflow = "<username>"
 email = "rlu@robertlunderwood.com"
 
@@ -61,7 +61,6 @@ highlightjs = true
     identifier = "About"
     weight = 100
     url = "/about/"
-    
 [[menu.main]]
     name = "Ranting Robert"
     identifier = "Ranting Robert"

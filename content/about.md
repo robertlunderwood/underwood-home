@@ -29,5 +29,5 @@ For those seeking knowledge or more information, there are some things that may 
 
 ## KNOCK
 
-If you wish to contact me, I can be reached on [Facebook] (http://www.facebook.com/robertlunderwood), [Twitter] (http://www.twitter.com/robunderwood), [LinkedIn] (http://www.linkedin.com/in/robertlunderwood), or [Google+] (http://plus.google.com/+RobertUnderwood).  Also, feel free to check out my [resume] (/resume).
+If you wish to contact me, I can be reached on [Facebook] (http://www.facebook.com/robertlunderwood), [Twitter] (http://www.twitter.com/robunderwood), or [LinkedIn] (http://www.linkedin.com/in/robertlunderwood). Also, feel free to check out my [resume] (/resume).
 
