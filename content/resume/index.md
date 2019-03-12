@@ -80,9 +80,9 @@ weight dataset in R to build models that could predict infant birth weight and p
 
 *Video Banking Teller,* Sep 2015 – Mar 2018
 
-* Consistently and accurately services banking needs remotely
-* Promotes machine functions via branch visits, leading to a 75% increase in customer usage
-* Built and maintains a new schedule template which reduces time spent completing schedules by 50% 
+* Consistently and accurately serviced banking needs remotely
+* Promoted machine functions via branch visits, leading to a 75% increase in customer usage
+* Built and maintained a new schedule template which reduces time spent completing schedules by 50% 
 
 **ALLEGHENY VALLEY BANK,** Pittsburgh, PA	
 
