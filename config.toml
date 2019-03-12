@@ -64,5 +64,10 @@ highlightjs = true
 [[menu.main]]
     name = "Ranting Robert"
     identifier = "Ranting Robert"
-    weight = 300
+    weight = 400
     url = "http://rantingrobert.com"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "Portfolio"
+    weight = 300
+    url = "/portfolio"

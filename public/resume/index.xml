@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on The Home of Robert L. Underwood</title>
+    <link>/resume/</link>
+    <description>Recent content in Resumes on The Home of Robert L. Underwood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/resume/</guid>
+      <description>Robert Underwood rlu@robertlunderwood.com linkedin.com/in/robertlunderwood Postgraduate passionate about data science. Seeking to leverage and improve data analytical skills gained through education to improve business performance and drive decision making.
+EDUCATION AMERICAN UNIVERSITY, Washington, DC
+Master of Science in Analytics, June 2017
+Relevant coursework: Database and Big Data, Applied Managerial Statistics, Business Intelligence, Business Insights Through Analytics, Predictive Analytics
+CARNEGIE MELLON UNIVERSITY, Pittsburgh, PA
+Bachelor of Science in Mathematical Sciences, May 2009</description>
+    </item>
+    
+  </channel>
+</rss>
