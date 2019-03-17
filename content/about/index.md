@@ -12,7 +12,7 @@ showpagemeta = false
 
 # WELCOME!
 
-So either you stumbled upon this page or you were directed here. In case, welcome to the home of Robert Underwood. Obviously, I’m Robert Underwood. Let me tell you a bit about myself.
+So either you stumbled upon this page or you were directed here. In any case, welcome to the home of Robert Underwood. Obviously, I’m Robert Underwood. Let me tell you a bit about myself.
 
 
 ## ASK
